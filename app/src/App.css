@@ -1,0 +1,40 @@
+.App {
+	text-align: center;
+	margin: 2rem;
+}
+
+.section {
+	padding: 2%;
+	border-style: outset;
+	text-align: left;
+	max-width: 720px;
+	margin: 2rem auto auto;
+}
+
+.card-img-top {
+	width: 100%;
+	height: 15vw;
+	object-fit: contain;
+}
+
+.card-title {
+	width: 100%;
+	/* height: 1.5vw; */
+	font-size: medium;
+}
+.newListingForm {
+	padding: 3%;
+	border-style: outset;
+}
+
+.row-in {
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.profileButton {
+	display: flex;
+}
